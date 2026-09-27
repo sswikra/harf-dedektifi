@@ -1,0 +1,7 @@
+{
+  "name": "Harf Dedektifi",
+  "description": "Maarif Modeli 1. Sınıf Türkçe Harf ve Ses Dedektifi İnteraktif Tablet Oyunu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
